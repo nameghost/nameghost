@@ -1,0 +1,11 @@
+re
+sys
+whois
+socket
+pprint
+requests
+itertools
+validators
+colorama
+optparse
+python-whois
